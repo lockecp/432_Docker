@@ -11,5 +11,7 @@ Docker file for CS432 at JMU
 5. Run "docker run -it CS_432"
 
 # TO-DO (Production)
+Figure out if graphviz is runnable                          <br />
+Write script to hook up to stu                              <br />
 Create tutorial on using docker image in VS-Code            <br />
 Create tutorial on pulling image down from docker registry  <br />
