@@ -11,5 +11,5 @@ Docker file for CS432 at JMU
 5. Run "docker run -it CS_432"
 
 # TO-DO (Production)
-Create tutorial on using docker image in VS-Code
-Create tutorial on pulling image down from docker registry
+Create tutorial on using docker image in VS-Code            <br />
+Create tutorial on pulling image down from docker registry  <br />
