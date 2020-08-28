@@ -6,8 +6,8 @@ Docker file for CS432 at JMU
 2. Test and ensure docker is running by typing "docker --version"
 3. Clone this repo to your local machine
 4. Run "docker build -t CS_432 . "
-NOTE: Any name can go after the -t(tag) flag
-NOTE: The " . " is critical - it tells Docker to build the image on your machine
+4.1. NOTE: Any name can go after the -t(tag) flag
+4.2. NOTE: The " . " is critical - it tells Docker to build the image on your machine
 5. Run "docker run -it CS_432"
 
 # TO-DO (Production)
