@@ -12,3 +12,4 @@ Docker file for CS432 at JMU
 
 # TO-DO (Production)
 Create tutorial on using docker image in VS-Code
+Create tutorial on pulling image down from docker registry
